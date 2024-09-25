@@ -1,0 +1,6 @@
+numpy
+os-sys  # Handles os module-related functionalities
+matplotlib
+tensorflow==2.12.0
+keras==2.12.0
+scikit-learn
